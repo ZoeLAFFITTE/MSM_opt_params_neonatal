@@ -1,6 +1,6 @@
 # Optimizing MSM registration parameters fixes local minima issues on the dHCP database.
 
-MSM [Multimodal Surface Matching](https://github.com/ecr05/MSM_HOCR/tree/master) is the state-of-the-art method for spherical registration of cortical surfaces obtained from MRI data.¹ The alignment can be driven by various univariate,multivariate, or multimodal feature sets. This method is commonly used in the community for routine registrations and in particular for data released by the [Human Connectome Project](https://www.humanconnectome.org/).
+MSM [Multimodal Surface Matching](https://github.com/ecr05/MSM_HOCR/tree/master) is the state-of-the-art method for spherical registration of cortical surfaces obtained from MRI data. The alignment can be driven by various univariate,multivariate, or multimodal feature sets. This method is commonly used in the community for routine registrations and in particular for data released by the [Human Connectome Project](https://www.humanconnectome.org/).
 
 However, when applied to neonatal dHCP data, the method may produce suboptimal registrations due to high variability in cortical folding and challenges in establishing accurate inter-subject correspondence.
 
