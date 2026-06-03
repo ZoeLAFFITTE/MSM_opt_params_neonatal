@@ -7,6 +7,7 @@ However, when applied to neonatal dHCP data, the method may produce suboptimal r
 We provide the configuration file for the method, which includes a rigid initialization step with high smoothing of source and target sulcal depth features to reduce local minima issues.
 
 When using this work, please cite:
+Zoë Laffitte, Guillaume Auzias, Julien Lefevre, Olivier Coulon. Optimizing MSM registration parameters fixes local minima issues on the dHCP database. Organization for Human Brain Mapping (OHBM) 2026 Annual Meeting, Jun 2026, Bordeaux, France. . ⟨hal-05642024⟩
 
 ## References
 Robinson, Emma C., Saad Jbabdi, Matthew F. Glasser, Jesper Andersson, Gregory C. Burgess, Michael P. Harms, Stephen M. Smith, David C. Van Essen, and Mark Jenkinson. "MSM: A new flexible framework for Multimodal Surface Matching." Neuroimage 100 (2014): 414-426.
